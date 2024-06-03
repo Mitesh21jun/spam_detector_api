@@ -48,13 +48,14 @@ JWT_SECRET=your_jwt_secret
 ```bash
 npx sequelize-cli db:migrate
 ```
-#### or seed data
+
+#### 5. Seed data
 
 ```bash
 npm run seed
 ```
 
-### 5. Start the Server
+### 6. Start the Server
 
 ```bash
 npm start
