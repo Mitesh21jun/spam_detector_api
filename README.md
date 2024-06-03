@@ -36,7 +36,7 @@ npm install
 npm install
 ```
 
-### 3. Set Up Environment Variables
+### 3. Set Up Environment Variables (/.env file)
 
 ```bash
 DATABASE_URL=your_postgresql_connection_string
