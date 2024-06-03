@@ -22,3 +22,9 @@ This project is a REST API for a mobile app that detects spam phone numbers and 
 ```bash
 git clone https://github.com/your-username/spam-detector-api.git
 cd spam-detector-api
+```
+
+## Getting Started
+```bash
+npm install
+```
