@@ -30,7 +30,7 @@ cd spam-detector-api
 npm install
 ```
 
-### or
+#### or
 
 ```bash
 npm install
@@ -55,7 +55,7 @@ npx sequelize-cli db:migrate
 npm start
 ```
 
-### or
+#### or
 ```bash
 yarn start
 ```
