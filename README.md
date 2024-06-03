@@ -24,7 +24,39 @@ git clone https://github.com/your-username/spam-detector-api.git
 cd spam-detector-api
 ```
 
-## Getting Started
+### 2. Install Dependencies
+
 ```bash
 npm install
 ```
+
+### or
+
+```bash
+npm install
+```
+
+### 3. Set Up Environment Variables
+
+```bash
+DATABASE_URL=your_postgresql_connection_string
+JWT_SECRET=your_jwt_secret
+```
+
+### 4. Run Database Migrations
+
+```bash
+npx sequelize-cli db:migrate
+```
+
+### 5. Start the Server
+
+```bash
+npm start
+```
+
+### or
+```bash
+yarn start
+```
+
